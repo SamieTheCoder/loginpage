@@ -1,5 +1,5 @@
 # Login Page
-A brief description of the project and its purpose.
+Animated Login Page using HTML CSS AND JAVASCRIPT.
 
 ## Get a [Look](https://samiethecoder.github.io/loginpage/) at it.
 
