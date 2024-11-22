@@ -1,7 +1,7 @@
 # Project Name
 A brief description of the project and its purpose.
 
-## Get a [Look]([https://samiethecoder.github.io/loginpage/]) at it.
+## Get a [Look](https://samiethecoder.github.io/loginpage/) at it.
 
 ## Installation
 1. Clone the repository:
