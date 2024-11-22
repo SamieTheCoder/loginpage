@@ -1,4 +1,4 @@
-# Project Name
+# Login Page
 A brief description of the project and its purpose.
 
 ## Get a [Look](https://samiethecoder.github.io/loginpage/) at it.
